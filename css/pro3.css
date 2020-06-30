@@ -171,13 +171,6 @@ body{
     background-repeat: no-repeat;
 
 }
-.content .cont-1 .b img{
-    width: 74px;
-    height: 81px;
-    float: left;
-    margin-top: 45px;
-    margin-left: -130px;
-}
 .content .cont-1 .c{
     width: 330px;
     height: 140px;
@@ -188,13 +181,6 @@ body{
     background-repeat: no-repeat;
 
 }
-.content .cont-1 .c img{
-    width: 74px;
-    height: 81px;
-    float: left;
-    margin-top: 45px;
-    margin-left: -90px;
-}
 .content .cont-1 .d{
     width: 330px;
     height: 140px;
@@ -204,13 +190,7 @@ body{
     background-repeat: no-repeat;
 
 }
-.content .cont-1 .d img{
-    width: 74px;
-    height: 81px;
-    float: left;
-    margin-top: 45px;
-    margin-left: 10px;
-}
+
 
 
 
@@ -222,83 +202,7 @@ body{
     background-image: url(../image/生活杂志背景.png);
     background-repeat: no-repeat;
 }
-.content .cont-2 .cont-2-1 .a{
-    float: left;
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.content .cont-2 .cont-2-1 .a .a1{
-    float: left;
-    margin-left: 185px;
-    margin-top: -33px;
-}
 
-.content .cont-2 .cont-2-1 img{
-    float: right;
-    margin-right: 0px;
-    margin-top: 0px;
-}
-.content .cont-2 .cont-2-2{
-    width: 225px;
-    height: 310px;
-    float: left;background-image: url(../image/zzlefttu.png);
-    background-repeat: no-repeat;
-    margin-top: 20px;
-    margin-left: 30px;
-    
-}
-.content .cont-2 .cont-2-2 span{
-    float: left;
-    margin-top: -20px;
-}
-.content .cont-2 .cont-2-2 .cont-2-2-1 img{
-    float: left;
-    margin-left: -39px;
-    margin-top: 21px;
-}
-.content .cont-2 .cont-2-3{
-    width: 740px;
-    height: 280px;
-    float: right;
-    margin-left: 90px;
-    margin-top: -270px;
-
-}
-.content .cont-2 .cont-2-3 .cont-2-3-1{
-    width: 18px;
-    height: 218px;
-    float: left;
-}
-.content .cont-2 .cont-2-3 .cont-2-3-2{
-    width: 166px;
-    height: 260px;
-    float: left;
-    margin-left: 10px;
-    margin-top: -20px;
-}
-.content .cont-2 .cont-2-3 .cont-2-3-3{
-    width: 166px;
-    height: 260px;
-    float: left;
-    margin-top: -20px;
-}
-.content .cont-2 .cont-2-3 .cont-2-3-4{
-    width: 166px;
-    height: 260px;
-    float: left;
-    margin-top: -20px;
-}
-.content .cont-2 .cont-2-3 .cont-2-3-5{
-    width: 166px;
-    height: 260px;
-    float: left;
-    margin-top: -20px;
-}
-.content .cont-2 .cont-2-3 .cont-2-3-6{
-    float: left;
-    width: 18px;
-    height: 218px;
-}
 
 
 
@@ -319,23 +223,7 @@ body{
     height: 120px;
     float: left;
 }
-.content .cont-3 .cont-3-1 .cont-3-1-1{
-    width: 500px;
-    height: 80px;
-    float: left;
-    margin-top: 20px;
-}
-.content .cont-3 .cont-3-1 .cont-3-1-2{
-    width: 450px;
-    height: 100px;
-    float: left;
-    margin-top: 70px;
-}
-.content .cont-3 .cont-3-1 .cont-3-1-2 img{
-    float: left;
-    margin-top: -40px;
-    margin-left: 36px;
-}
+
 
 
 .content .cont-3 .cont-3-2{
@@ -343,25 +231,7 @@ body{
     height: 120px;
     float: right;
 }
-.content .cont-3 .cont-3-2 img{
-    width: 462px;
-    height: l67px;
-    float: right;
-    margin-top: -40px;
-}
-.content .cont-3 .cont-3-2 .cont-3-2-1 img{
-    float: left;
-    margin-top: px;
-    margin-left: 10px;
-}
-.content .cont-3 .cont-3-2 .cont-3-2-1 .a{
-    float:left;
-    margin-top: 50px;
-    margin-left: 150px;
-}
-.content .cont-3 .cont-3-2 .cont-3-2-1 .a span{
-    color: white;
-}
+
 
 
 .foot{
